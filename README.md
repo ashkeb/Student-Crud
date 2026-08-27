@@ -1,4 +1,4 @@
-# Student CRUD - Spring Boot Application
+  # Student CRUD - Spring Boot Application
 
 A Spring Boot REST API to **Store / Update / Retrieve / Delete** student records
 (`id`, `name`, `department`) backed by **MySQL**, documented with **Swagger (springdoc-openapi)**,
