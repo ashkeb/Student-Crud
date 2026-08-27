@@ -1,3 +1,0 @@
-2026-08-24 10:23:59.189846Z jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found; SQL statement:
-select * from students [42102-232]
