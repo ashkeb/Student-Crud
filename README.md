@@ -285,3 +285,9 @@ all tests still pass on your machine.
 - Move DB credentials to environment variables / a secrets manager instead of
   `application.properties` before deploying anywhere real.
 - Add pagination to `GET /api/v1/students` if the dataset can grow large.
+
+
+
+
+
+-- add this /swagger-ui/index.html#/Student/createStudent at the end of the port 8080 opened in the browser
